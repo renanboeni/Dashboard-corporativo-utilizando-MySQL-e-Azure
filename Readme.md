@@ -1,7 +1,3 @@
-Aqui está a versão revisada do texto com correções ortográficas e de estilo:  
-
----
-
 # 🚀 **Dashboard Corporativo com Integração MySQL e Azure**  
 
 Este projeto tem como objetivo construir um **dashboard corporativo poderoso e dinâmico**, integrando o banco de dados MySQL e os serviços de nuvem da **Microsoft Azure** para hospedagem.  
