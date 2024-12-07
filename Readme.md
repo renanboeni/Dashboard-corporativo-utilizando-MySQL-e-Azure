@@ -94,5 +94,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)  
 
 --- 
-
-Se precisar de mais ajustes, é só avisar! 😊
